@@ -1,11 +1,11 @@
 ## virtual env.
-venv1/
+venv/
 
 ## Python cache
 __pycache__/
 
 ## Environment variables
-.env
+.env/
 
 ## pdf
 *.pdf
