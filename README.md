@@ -1,1 +1,1 @@
-## KAGGLE's 5days cource 
+## KAGGLE's 5days AgenticAI course 
