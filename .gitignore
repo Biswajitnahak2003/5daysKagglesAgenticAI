@@ -5,7 +5,7 @@ venv1/
 __pycache__/
 
 ## Environment variables
-.env/
+.env
 
 ## pdf
 *.pdf
